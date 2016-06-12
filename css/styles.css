@@ -60,8 +60,7 @@ border: 1px solid rgba(255,255,255,.7);
 text-align: center;
 }
 .centrado{
-    margin-left: 225px;
-    margin-bottom: 30px;
+ text-align: center;
 }
 #logo-capcom {
     background-image: url(../images/Capcom_logo.png);
